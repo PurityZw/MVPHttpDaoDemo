@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPHttpDaoDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="noConnectionCode">-1</string>
+    <string name="noResponse">服务端无响应</string>
+    <string name="data_exception">数据异常</string>
+    <string name="noConnection">网络环境异常,请检查网络并重试</string>
+
+</resources>
